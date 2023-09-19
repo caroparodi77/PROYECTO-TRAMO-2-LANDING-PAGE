@@ -1,0 +1,29 @@
+
+header {
+    background-color: white;
+    height: 20vh;
+   
+}
+
+main {
+    background-image: url(./imagenes/flores\ 3.jpg);
+    background-size:cover;
+    height: 80vh;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.container {
+    margin: 20px;
+}
+
+/* .btn {
+    border-radius: 50%;
+    
+} */
+
+
+
+
